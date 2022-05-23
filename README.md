@@ -13,6 +13,8 @@ Email: adityabikrambill@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/aditya-bikram-arandhara/
 
+![](https://komarev.com/ghpvc/?username=Adityabill&color=brightgreen)
+
 
 
 ### 👯 Open for collaboration 🤝
