@@ -19,9 +19,6 @@ LinkedIn: https://www.linkedin.com/in/aditya-bikram-arandhara/
 
 ### 👯 Open for collaboration 🤝
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityabill&hide=prs,stars,contribs,issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityabill&theme=dark)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adityabill&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
